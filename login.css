@@ -1,0 +1,23 @@
+*{
+    background-color: antiquewhite;
+    
+}
+p{
+    font-size:50px;
+    margin-left:225px ;
+    margin-top: 225px ;
+    color:blueviolet;
+    font-family: "Libre Baskerville", serif;
+    font-weight: 400;
+    font-style: italic;
+}
+.information{
+    margin-left:500px;
+    font-size: large;
+}
+#button{
+    background-color: cadetblue;
+    color:firebrick;
+    padding:5px;
+    border-radius:8px;
+}
